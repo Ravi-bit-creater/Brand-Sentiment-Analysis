@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+joblib
+altair
+google-api-python-client
+urllib3
